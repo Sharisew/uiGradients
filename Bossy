@@ -1,0 +1,9 @@
+[
+    {
+        …
+    }, // <-- Don't forget this comma
+    {
+        "name": "Boss Lady", // <-- and this comma too
+        "colors": ["#a0d8cc", "#fbc52c"]
+    }
+]
